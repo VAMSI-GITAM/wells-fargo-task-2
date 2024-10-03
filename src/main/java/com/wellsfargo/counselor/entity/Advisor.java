@@ -7,7 +7,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 
 @Entity
-public class Advisor entityAdvisor {
+public class Advisor {
 
     @Id
     @GeneratedValue()
