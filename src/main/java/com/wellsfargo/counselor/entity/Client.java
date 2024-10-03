@@ -42,7 +42,7 @@ public class Client {
         this.advisor = advisor;
     }
 
-    // Getters and Setters
+    // Getters & Setters
     public Long getClientId() {
         return clientId;
     }

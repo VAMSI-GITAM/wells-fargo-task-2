@@ -44,7 +44,7 @@ public class Security {
         this.portfolio = portfolio;
     }
 
-    // Getters and Setters
+    // Getters & Setters
     public Long getSecurityId() {
         return securityId;
     }

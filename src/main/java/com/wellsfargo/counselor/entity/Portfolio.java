@@ -26,7 +26,7 @@ public class Portfolio {
         this.client = client;
     }
 
-    // Getters and Setters
+    // Getters & Setters
     public Long getPortfolioId() {
         return portfolioId;
     }
